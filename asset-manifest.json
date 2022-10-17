@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seaweedbraid/static/css/main.b281a1e7.css",
+    "main.js": "/seaweedbraid/static/js/main.7353b23d.js",
+    "index.html": "/seaweedbraid/index.html",
+    "main.b281a1e7.css.map": "/seaweedbraid/static/css/main.b281a1e7.css.map",
+    "main.7353b23d.js.map": "/seaweedbraid/static/js/main.7353b23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b281a1e7.css",
+    "static/js/main.7353b23d.js"
+  ]
+}
