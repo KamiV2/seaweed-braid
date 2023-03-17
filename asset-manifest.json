@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/seaweed-braid/static/css/main.d6ae0c0b.css",
-    "main.js": "/seaweed-braid/static/js/main.5a363835.js",
+    "main.js": "/seaweed-braid/static/js/main.eb181d3d.js",
     "static/media/tilt.png": "/seaweed-braid/static/media/tilt.2db0e5e3e967ce00cd2d.png",
     "index.html": "/seaweed-braid/index.html",
     "main.d6ae0c0b.css.map": "/seaweed-braid/static/css/main.d6ae0c0b.css.map",
-    "main.5a363835.js.map": "/seaweed-braid/static/js/main.5a363835.js.map"
+    "main.eb181d3d.js.map": "/seaweed-braid/static/js/main.eb181d3d.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ae0c0b.css",
-    "static/js/main.5a363835.js"
+    "static/js/main.eb181d3d.js"
   ]
 }
